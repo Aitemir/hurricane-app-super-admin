@@ -1,0 +1,45 @@
+.wrapper {
+    max-width: 950px;
+    margin: 50px auto;
+}
+  
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.mat-cell {
+  text-overflow: ellipsis;
+  white-space: nowrap;  
+}
+
+#icon {
+  padding-bottom: 2px;
+}
+
+#icon-error {
+  position: relative;
+  top: 4px;
+  left: 0px;
+}
+
+#error {
+  padding-top: 5px;
+  text-align: center;
+}
+
+.warning {
+  color:red;
+}
+
+.mat-row:hover {
+  background-color:#ebebeb;
+}
+
+.highlight {
+  color: #FF0000;
+}

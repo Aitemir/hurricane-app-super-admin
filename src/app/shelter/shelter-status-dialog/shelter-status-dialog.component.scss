@@ -1,0 +1,16 @@
+.mat-form-field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#icon {
+    position: relative;
+    top: 4px;
+    left: 0px;
+}
+
+.mat-dialog-actions {
+    float: right;
+}
